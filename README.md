@@ -1,1 +1,3 @@
-# sorting
+# Sorting COVID-19 Data from Twitter
+
+This program takes COVID-19 related keywords (hashtags and search terms) and displays the search results based on the amount of tweets the user wants displayed, as well as a date limit (how far back the tweets go). In addition, the user can filter this data based on the contents of the tweet, generalizing it to 2 categories: giving it a subjectivity rating (i.e., how biased/opinionated are the words and phrases in the tweet) and a polarity rating (i.e., how positive the tweets tend to be based on key words). All this data is displayed back to the user in a table, using the parameters set by them at the beginning.
